@@ -1,0 +1,2 @@
+from .test_serializers import TestProductSerializer, TestCategorySerializer
+from .test_viewsets import CategoryViewSet
